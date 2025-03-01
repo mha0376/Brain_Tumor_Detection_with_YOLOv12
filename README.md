@@ -69,7 +69,8 @@ To train the YOLOv12 model on the brain tumor dataset:
 Ensure the dataset is downloaded and structured as per YOLO requirements (e.g., data.yaml file specifying paths to train, validation, and test sets).
 2.  **Run the Training Script:**
 ```bash
-python train.py --data /path/to/BrainTumor-Br35H-3/data.yaml --epochs 20 --imgsz 139 --device cuda --lr0 0.001
+# Train the YOLO model on the brain tumor dataset
+results = model.train(data="/content/BrainTumor-Br35H-3/data.yaml", epochs=20, imgsz=139, device=device, lr0=0.001)
 ```
 *   Adjust --device to cpu if GPU is unavailable.
 *   Modify hyperparameters (e.g., epochs, image size) as needed.
