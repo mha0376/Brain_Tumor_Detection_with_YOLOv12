@@ -26,7 +26,6 @@ The dataset utilized is the "[BrainTumor-Br35H](https://universe.roboflow.com/br
 
 *   Training Set: Used to train the YOLOv12 model.
 *   Validation Set: Employed for hyperparameter tuning and overfitting prevention.
-*   Test Set: Reserved for final performance evaluation.
 
 The dataset is formatted for YOLO compatibility, with images and corresponding label files organized accordingly.
 
