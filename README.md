@@ -25,7 +25,7 @@ The objective of this project is to harness the capabilities of YOLOv12, a state
 The dataset utilized is the "[BrainTumor-Br35H](https://universe.roboflow.com/br34h-dataset-brain-tumor/braintumor-br35h)" dataset from Roboflow, accessible via the Roboflow platform (version 3). It consists of annotated brain MRI images categorized into:
 
 *   Training Set: Used to train the YOLOv12 model.
-*   Validation Set: Employed for hyperparameter tuning and overfitting prevention.
+*   Validation set: Used to tune hyperparameters and prevent overfitting. Also, these images can be used due to the lack of test images.
 
 The dataset is formatted for YOLO compatibility, with images and corresponding label files organized accordingly.
 
