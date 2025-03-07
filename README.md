@@ -132,12 +132,13 @@ display(confusion_matrix)
 
 ## Results
 The fine-tuned YOLOv12 model demonstrates robust performance in brain tumor detection. Key metrics include:
-*   mAP 50:95 : 0.690
-*   mAP 75 : 0.865
-*   mAP 50 : 0.909
+*   mAP 50:95 : 0.677
+*   mAP 75 : 0.839
+*   mAP 50 : 0.917
 
 Sample outputs and evaluation plots (e.g., confusion matrices, F1 curves) are stored in runs/detect/train/. Before training, the pre-trained model struggles to detect tumors accurately, while post-training inference shows significant improvement.
 
+![download](https://github.com/user-attachments/assets/cd286b26-d44e-45f2-a7cb-5e9c8b154d4d)
 
 ## Contributing
 We welcome contributions to enhance this project. To contribute:
