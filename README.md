@@ -1,6 +1,4 @@
-
-![banner](https://github.com/user-attachments/assets/979b8ccd-3ced-4968-84e7-d5e5ae680fca)
-
+![image (1)](https://github.com/user-attachments/assets/55262aed-c814-411d-809f-003235124be7)
 
 # Brain Tumor Detection Using YOLOv12
 
