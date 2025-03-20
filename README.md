@@ -136,7 +136,7 @@ The fine-tuned YOLOv12 model demonstrates robust performance in brain tumor dete
 
 Sample outputs and evaluation plots (e.g., confusion matrices, F1 curves) are stored in runs/detect/train/. Before training, the pre-trained model struggles to detect tumors accurately, while post-training inference shows significant improvement.
 
-![download](https://github.com/user-attachments/assets/cd286b26-d44e-45f2-a7cb-5e9c8b154d4d)
+![image (2)](https://github.com/user-attachments/assets/4a7dece8-fc06-43f2-b0d6-cb6be8db99a0)
 
 ## Contributing
 We welcome contributions to enhance this project. To contribute:
